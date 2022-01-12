@@ -1,0 +1,128 @@
+*{margin: 0px;}
+.topnav{
+    width: 200%;
+    height: 100%;
+    border: 0px solid white;
+    padding: 25px;
+    margin: 5px;
+    display: inline-block;
+    background-size: cover;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+  .topnav {
+    background-color: #333;
+    overflow: hidden;
+    text-size-adjust: 500px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 40px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    color: white;
+  }
+
+  
+  .logo {
+    width: 200px;
+    height: 2%;
+    background-position: center; 
+    margin-left: 10px;
+  }
+  
+  header { 
+    display: block;
+    background-image: url(http://3.bp.blogspot.com/_MbYeHpPpWCM/TCgciaInR-I/AAAAAAAAFEo/rvzYuk4o_tA/s1600/Clouds_1280x1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .jordan4 /* Delayed */{
+    position: relative;
+    top: 750px;
+    left: 125px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke: 3px #6eccf9;
+  }
+  .jordan3 /* More News */{
+    position: relative;
+    bottom: 125px;
+    right: 920px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke: 3px #6eccf9;
+  }
+  .jordan1 /* Upcoming */{
+    position: relative;
+    bottom: 170px;
+    right: 930px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke: 3px #6eccf9;
+  }
+  .shoee {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    position: relative;
+    right: 700px;
+ bottom: 60px;
+  }
+  .beluga {
+    width: 250px;
+    height: 250px;
+    background-position: center; 
+    position: relative;
+    right: 700px;
+ bottom: 10px;
+  }
+  .shew {
+    width: 250px;
+    height: 250px;
+    background-position: center; 
+    position: relative;
+    left: 705px;
+    top: 150px;
+    margin-top: -100px;
+  }
+  .news {
+    position: absolute;
+    top: 1490px;
+    left: 400px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke: 3px #6eccf9;
+  }
+  html,body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
